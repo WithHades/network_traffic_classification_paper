@@ -1,3 +1,8 @@
+**写在前面：**
+**本文翻译供个人研究学习之用，不保证严谨与准确**
+**github链接：https://github.com/WithHades/network_traffic_classification_paper**
+**本文原文：Wang, P., Ye, F., Chen, X., & Qian, Y. (2018). Datanet: Deep learning based encrypted network traffic classification in SDN home gateway. IEEE Access, 6, 55380–55391. https://doi.org/10.1109/ACCESS.2018.2872430**
+
 <!-- TOC -->
 
 - [基于深度学习的SDN家庭网关加密网络流量分类](#基于深度学习的sdn家庭网关加密网络流量分类)
